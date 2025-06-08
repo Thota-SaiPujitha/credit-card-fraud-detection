@@ -1,0 +1,9 @@
+Requirements:
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+streamlit
+matplotlib
+seaborn
