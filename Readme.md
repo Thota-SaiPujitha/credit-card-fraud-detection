@@ -19,7 +19,7 @@ Folder Structure
 
 Getting Started
  **Clone the repo**  
-   git clone https://github.com/USERNAME/credit-card-fraud-detection.git
+   git clone https://github.com/Thota-SaiPujitha/credit-card-fraud-detection
    cd credit-card-fraud-detection
 2.Create & activate a virtual environment
 python3 -m venv .venv
